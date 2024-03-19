@@ -1,0 +1,37 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+textarea{
+  resize: none;
+}
+
+form{
+  margin: 50px auto;
+}
+table{
+  max-width: 900px;
+  width: 100%;
+  margin: 0px auto;
+}
+
+
+.form-wrapper {
+  margin: 0px auto;
+  max-width: 500px;
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+}
+
+.table-container {
+  margin: 20px auto;
+}
+
+img {
+  width: 40px;
+}
